@@ -1,0 +1,24 @@
+payload:
+  # Steam&Epic
+  - DOMAIN,steambroadcast.akamaized.net,Steam&Epic
+  - DOMAIN,steamcdn-a.akamaihd.net,Steam&Epic
+  - DOMAIN,steamcommunity-a.akamaihd.net,Steam&Epic
+  - DOMAIN,steamstore-a.akamaihd.net,Steam&Epic
+  - DOMAIN,steamusercontent-a.akamaihd.net,Steam&Epic
+  - DOMAIN,steamuserimages-a.akamaihd.net,Steam&Epic
+  - DOMAIN,steamvideo-a.akamaihd.net,Steam&Epic
+  - DOMAIN-SUFFIX,playartifact.com,Steam&Epic
+  - DOMAIN-SUFFIX,s.team,Steam&Epic
+  - DOMAIN-SUFFIX,steam-chat.com,Steam&Epic
+  - DOMAIN-SUFFIX,steamcommunity.com,Steam&Epic
+  - DOMAIN-SUFFIX,steamgames.com,Steam&Epic
+  - DOMAIN-SUFFIX,steampowered.com,Steam&Epic
+  - DOMAIN-SUFFIX,steamstatic.com,Steam&Epic
+  - DOMAIN-SUFFIX,steamusercontent.com,Steam&Epic
+  - DOMAIN-SUFFIX,underlords.com,Steam&Epic
+  - DOMAIN-SUFFIX,valvesoftware.com,Steam&Epic
+  - DOMAIN-SUFFIX,epicgames.com,Steam&Epic
+  - DOMAIN-SUFFIX,epicgames.dev,Steam&Epic
+  - DOMAIN-SUFFIX,helpshift.com,Steam&Epic
+  - DOMAIN-SUFFIX,paragon.com,Steam&Epic
+  - DOMAIN-SUFFIX,unrealengine.com,Steam&Epic
